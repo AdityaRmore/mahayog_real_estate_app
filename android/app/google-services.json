@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "497930248493",
+    "project_id": "mahayog-76d28",
+    "storage_bucket": "mahayog-76d28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497930248493:android:ffaab72023948ca440b3a4",
+        "android_client_info": {
+          "package_name": "com.example.mahayog_real_estate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497930248493-6usnhf1b3km620clpq74sbcgu3puklgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahayog_real_estate_app",
+            "certificate_hash": "e57c8cb0c626e769981d412f2cde4b72cca8f6c4"
+          }
+        },
+        {
+          "client_id": "497930248493-1711qaq3qmmncdg203gdh2vo9t6ki60l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfO64GVmNIAdcUT_qDqb5nGvRtQ86J0Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497930248493-1711qaq3qmmncdg203gdh2vo9t6ki60l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
